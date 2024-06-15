@@ -1,3 +1,7 @@
+# DW com dbt-core
+
+### Projeto de monitoramento de preços de commodities utilizando Python
+
 ````mermaid
 graph TD;
     A[Início] --> B[Extrair Dados das Commodities]

@@ -1,3 +1,4 @@
+````mermaid
 graph TD;
     A[Início] --> B[Extrair Dados das Commodities]
     B --> C[Transformar Dados das Commodities]
@@ -25,4 +26,4 @@ graph TD;
     C1 --> C2
     C2 --> D
     D --> D1
-
+````

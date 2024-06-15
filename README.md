@@ -1,5 +1,3 @@
-Projeto real de monitoramento de preços de commodities utilizando Python
-
 graph TD;
     A[Início] --> B[Extrair Dados das Commodities]
     B --> C[Transformar Dados das Commodities]
